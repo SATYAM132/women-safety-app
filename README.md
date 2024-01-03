@@ -54,13 +54,13 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - Thanks to [Geolocator](https://pub.dev/packages/geolocator) for providing location tracking functionality.
-- (Add any other acknowledgments as needed)
+
 
 ## Contact
 
-- Your Name
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+- satyam mahajan
+- Email: satyammahajan132@gmail.com
+- LinkedIn:www.linkedin.com/in/satyam-mahajan-69b99a22b
 
 Feel free to reach out if you have any questions or feedback!
 
